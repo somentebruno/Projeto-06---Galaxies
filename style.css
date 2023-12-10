@@ -4,6 +4,9 @@
   box-sizing: border-box;
 }
 
+:root {
+  font-family: 'Mulish', sans-serif;
+}
 
 body {
   display: grid;
